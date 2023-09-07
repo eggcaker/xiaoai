@@ -1,0 +1,21 @@
+{
+  "hardware": "S12",
+  "mute_xiaoai": true,
+  "use_command": true,
+  "gpt_optons": {},
+  "enable_edge_tts": true,
+  "proxy": "http://192.168.1.7:8080",
+  "edge_tts_voice": "zh-CN-XiaoxiaoNeural",
+  "mi_did": "84441868",
+  "account": "eggcaker@gmail.com",
+  "password": "Xmwabjtam,.1",
+  "stream": true,
+  "keyword": ["帮我", "请回答", "小六小六"],
+  "start_conversation": "开始持续对话",
+  "end_conversation": "结束持续对话",
+
+  "openai_key": "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",
+
+  "verbose": true,
+  "bot": "chatgptapi"
+}
