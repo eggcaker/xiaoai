@@ -14,7 +14,7 @@
   "start_conversation": "开始持续对话",
   "end_conversation": "结束持续对话",
 
-  "openai_key": "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",
+  "openai_key": "",
 
   "verbose": true,
   "bot": "chatgptapi"
